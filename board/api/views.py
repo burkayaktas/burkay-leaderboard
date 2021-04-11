@@ -1,0 +1,3 @@
+
+class PostListAPIViews(ListAPIView):
+    queryset=
